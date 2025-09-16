@@ -1,0 +1,13 @@
+{
+  "name": "ali1688-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scraper.js"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.47.2"
+  }
+}
+
+
